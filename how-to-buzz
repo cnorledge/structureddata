@@ -1,0 +1,125 @@
+<html>
+<head>
+<title>How to tie a tie</title>
+</head>
+<body>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "HowTo",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://example.com/1x1/photo.jpg"
+  },
+  "name": "How to install artificial grass",
+  "description": "For quick and easy installation, follow our guide to ensure everything goes smoothly, your artificial grass is installed properly and you complete the process to a high standard.",
+  "totalTime": "PT2M",
+  "supply": [
+    {
+      "@type": "HowToSupply",
+      "name": "Geotextile weed killer"
+    }, 
+    {
+      "@type": "HowToSupply",
+      "name": "Glue"
+    }, 
+    {
+      "@type": "HowToSupply",
+      "name": "Tape"
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "A turf cutter"
+  	}, 
+    {
+      "@type": "HowToTool",
+      "name": "A Stanley knife"
+    }
+  ],
+  "step":[
+    {
+      "@type": "HowToStep",
+      "name": "Manage your materials",
+      "text": "Firstly, work out the materials that you will need to install your artificial turf. These will include geotextile weed killer, a turf cutter, a Stanley knife and accessories, such as tape and glue.",
+      "image": "http://buzzgrass.com/wp-content/uploads/2018/02/Buzz_01-Manage-Your-Materials.png",
+      "url": "https://www.buzzgrass.com/how-to-install-artificial-grass/#step1"
+    }, {
+      "@type": "HowToStep",
+      "name": "Assess height and length",
+      "text": "Work out the height and length that the artificial grass layer will sit at and ensure that the area in which you wish to work is clear.",
+      "image": "http://buzzgrass.com/wp-content/uploads/2018/02/Buzz_02-Asses-Height-and-Length.png",
+      "url": "https://www.buzzgrass.com/how-to-install-artificial-grass/#step2"
+    }, {
+      "@type": "HowToStep",
+      "name": "Remove the existing grass sod",
+      "text": "This can be done by hand if it is a relatively small area being fitted with artificial grass. For larger areas, use a turf cutter. However, it must be taken into account to never build your base on top soil!",
+      "image": "http://buzzgrass.com/wp-content/uploads/2018/02/Buzz_03-Remove-Existing-Grass.png",
+      "url": "https://www.buzzgrass.com/how-to-install-artificial-grass/#step3"
+    }, {
+      "@type": "HowToStep",
+      "name": "Compact the ground",
+      "text": "Confidently compact the ground by using a vibrating plate or roller. These can usually be hired from equipment hire centres for inexpensive prices.",
+      "image": "http://buzzgrass.com/wp-content/uploads/2018/02/Buzz_04-Compact-the-Ground.png",
+      "url": "https://www.buzzgrass.com/how-to-install-artificial-grass/#step4"
+    }, {
+      "@type": "HowToStep",
+      "name": "Prevent any weeds",
+      "text": "Once your base his been compacted, add a weed killing membrane on the area to be covered with fake grass. This will not only reduce the likeliness of weeds growing through the artificial grass but will also allow vital drainage.",
+      "image": "http://buzzgrass.com/wp-content/uploads/2018/02/Buzz_05-Prevent-Weeds.png",
+      "url": "https://www.buzzgrass.com/how-to-install-artificial-grass/#step5"
+    }, {
+      "@type": "HowToStep",
+      "name": "Lay your sand",
+      "text": "Place down a minimum of 40mm of sharp and compacted sand. If the sand is too dry, add a little wet sand and compact using your vibrating plate or roller.",
+      "image": "http://buzzgrass.com/wp-content/uploads/2018/02/Buzz_06-Lay-Sand.png",
+      "url": "https://www.buzzgrass.com/how-to-install-artificial-grass/#step6"
+    }, {
+      "@type": "HowToStep",
+      "name": "Place grass edging down",
+      "text": "Should you desire to use timber or other edging, place this down now. Ensure that edging is not higher than the final grass line, to allow the water to run-off the turf.",
+      "image": "http://buzzgrass.com/wp-content/uploads/2018/02/Buzz_07-Grass-Edging.png",
+      "url": "https://www.buzzgrass.com/how-to-install-artificial-grass/#step7"
+    }, {
+      "@type": "HowToStep",
+      "name": "Roll out your grass",
+      "text": "Carefully roll out your artificial grass, being careful to not disturb the weed killing membrane as this will damage the levelling work on the base layer. If distributed evenly, your artificial turf can be laid in any direction.",
+      "image": "http://buzzgrass.com/wp-content/uploads/2018/02/Buzz_08-Roll-Out-Your-Grass.png",
+      "url": "https://www.buzzgrass.com/how-to-install-artificial-grass/#step8"
+    }, {
+      "@type": "HowToStep",
+      "name": "Let the grass settle",
+      "text": "It is advisable to now let your fake grass settle for a minimum of three hours and if possible, overnight. This will stop the grass from wrinkling or creasing.",
+      "image": "http://buzzgrass.com/wp-content/uploads/2018/02/Buzz_09-Let-the-Grass-Settle.png",
+      "url": "https://www.buzzgrass.com/how-to-install-artificial-grass/#step9"
+    }, {
+      "@type": "HowToStep",
+      "name": "Cut and trim the edges",
+      "text": "After the settling process is complete, cut and trim the artificial grass, using a sharp Stanley knife, ensuring the grass is cut neatly around the edges.",
+      "image": "http://buzzgrass.com/wp-content/uploads/2018/02/Buzz_10-Trim-the-Grass.png",
+      "url": "https://www.buzzgrass.com/how-to-install-artificial-grass/#step10"
+    }, {
+      "@type": "HowToStep",
+      "name": "Join the grass together",
+      "text": "In order to compose the joins of your grass, use our high-quality outdoor tape and glue, following the instructions on the products. Lay the tape and apply the adhesive, before pulling the grass edges together and applying some weight to them. This can be achieved with plant pots, stones or other heavy materials.",
+      "image": "http://buzzgrass.com/wp-content/uploads/2018/02/Buzz_11-Join-Together.png",
+      "url": "https://www.buzzgrass.com/how-to-install-artificial-grass/#step11"
+    }, {
+       "@type": "HowToStep",
+      "name": "Pin it down",
+      "text": "When fitting our artificial turf, pin it down using our landscaping pins. Should you be using a timber frame, you will need to utilise flat-headed galvanised nails.",
+      "image": "http://buzzgrass.com/wp-content/uploads/2018/02/Buzz_12-Pin-Down.png",
+      "url": "https://www.buzzgrass.com/how-to-install-artificial-grass/#step12"
+    }, {
+      "@type": "HowToStep",
+      "name": "Brush the grass up and relax",
+      "text": "Finally, the fibre may be relatively flat from being rolled up, so be sure to brush against the pile to bring the fibres of the artificial grass upright. Then sit back and enjoy your artificial grass lawn!",
+      "image": "http://buzzgrass.com/wp-content/uploads/2018/02/Buzz_13-Brush.png",
+      "url": "https://www.buzzgrass.com/how-to-install-artificial-grass/#step13"
+    }
+  ]
+}
+</script>
+</body>
+</html>
