@@ -1,0 +1,39 @@
+<script type="application/ld+json">
+{
+"@context":"https://schema.org/",
+"@type":"Product",
+"url":"https://www.feelgoodcontacts.com/contact-lenses/1-day-acuvue-moist",
+"description":"Perfect for even the most sensitive eyes, 1-Day Acuvue Moist are daily disposable contact lenses made with LACREON technology to provide excellent comfort all day long. 1-Day Acuvue disposable lenses are one of the bestselling lenses of all time and are ideal for those with a busy lifestyle. The exclusive technology retains moisture on the surface of the lens to ensure they don't dry out as the day goes on. Inspired by the natural behaviour of tears, this technology keeps 1-Day Acuvue Moist lenses hydrated and comfortable with a presence you'll barely feel. With the addition of UV protection, 1-Day Acuvue Moist is a suitable lens for all-year round. These disposable lenses offer the freedom of not having to clean and store your lenses every night. By replacing them daily, you can be sure your 1-Day Acuvue lenses are clean, moist and comfortable to wear, keeping your eyes clear, white and fresh. Your vision will no longer be effected by&nbsp;computer eye-strain&nbsp;or irritation. 1-Day Acuvue Moist contacts have been specifically designed to fit the busiest lens wearer's eye care routine and help prevent the onset of dry eye. Want to upgrade to weekly contact lenses? Why not try Acuvue Oasys.&nbsp; Feel Good Contacts offers excellent value for money and Price Match Guarantee on Johnson &amp; Johnson products.",
+"name":"1 Day Acuvue Moist",
+"image":[
+"https://static.feelgoodcontacts.net/contact-lenses/img/1-day-acuvue-moist786-131.png"
+],
+"sku":"38",
+"gtin13":"0733905579042",
+"brand":{
+"@type":"Thing",
+"name":"1 Day Acuvue"
+},
+"category":"Contact Lenses",
+"audience":"Unisex",
+"offers":{
+"@type":"Offer",
+"itemCondition":"https://schema.org/NewCondition",
+"availability":"http://schema.org/InStock",
+"priceCurrency":"GBP",
+"price":"15.49",
+"priceValidUntil": "2020-11-05",
+"url":"https://www.feelgoodcontacts.com/contact-lenses/1-day-acuvue-moist",
+"seller":{
+"@type":"Organization",
+"name":"Feel Good Contacts"
+}
+}
+,
+"aggregateRating":{
+"@context":"https://schema.org/",
+"@type":"AggregateRating",
+"ratingValue":"4.82",
+"reviewCount":"630"
+}
+}</script>
